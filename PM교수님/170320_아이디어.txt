@@ -1,0 +1,2 @@
+Open API(국가대중교통정보센터)
+http://tago.go.kr/v5/use/openapi.jsp
